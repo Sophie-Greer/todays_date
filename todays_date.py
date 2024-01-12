@@ -17,5 +17,3 @@ class todays_date:
     print(date_in_format_3)
 
 todays_date()
-
-# just messing around/practicing
